@@ -21,7 +21,7 @@
     <h1 style="color: brown;">Buat Akun Baru</h1>
     <h2 style="color: brown;">Sigh Up Form</h2>
 
-        <form action="slmtdatang.html" method="get">
+        <form action="slmtdatang.php" method="post">
             <label for="first-name">first name :</label>
             <input type="text" id="first-name" name="first-name" requered><br><br>
             <label for="last-name">Last name :</label>
@@ -43,12 +43,12 @@
             </select><br></br>
 
 
-            <label>Language Spoken</label><br></br>
-            <input type="checkbox" id="buatbox1" name="buatbox1" value="bahasa">
-            <label for="buatbox1">Bahasa Indonesia</label><br>
-            <input type="checkbox" id="buatbox2" name="buatbox2" value="bahasa">
+            <label>Language Spoke</label><br></br>
+            <input type="checkbox" id="buatbox" name="buatbox" value="Indonesia">
+            <label for="buatbox">Bahasa Indonesia</label><br>
+            <input type="checkbox" id="buatbox" name="buatbox" value="English">
             <label for="buatbox">English<label></label><br>
-            <input type="checkbox" id="buatbox3" name="buatbox3" value="bahasa">
+            <input type="checkbox" id="buatbox" name="buatbox" value="Other">
             <label for="buatbox">Other</label><br></br>
             
                 <p>Bio</p>

@@ -30,7 +30,7 @@
         <h2 style="color:brown">Cara Bergabung Ke Media Online</h2>
                 <ol>
                     <li> Mengunjungi Website ini</li>
-                    <li> Mendaftar di <a href="from.html">From Sigh Up</a></li>
+                    <li> Mendaftar di <a href="from.php">From Sigh Up</a></li>
                     <li> Selesai</li>
                 </ol>
             
